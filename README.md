@@ -74,4 +74,4 @@ Below is a standard diagram of the transformer architecture (from the original p
 ## Credits
 
 - Implementation inspired by the original transformer paper and OpenAI's GPT models.
-- For more visual explanations, check out [Visual AI](https://www.youtube.com/@VisualAI) on YouTube. 
+- For more visual explanations, check out [Vizuara AI](https://www.youtube.com/@vizuara) on YouTube. 
