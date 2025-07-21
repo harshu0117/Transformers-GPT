@@ -58,16 +58,17 @@ Below is a standard diagram of the transformer architecture (from the original p
 
 ## References & Resources
 
-- **Papers**:
-  - [Attention is All You Need (Vaswani et al., 2017)](https://arxiv.org/abs/1706.03762){:target="_blank"}
-  - [OpenAI GPT-2 (Radford et al., 2019)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf){:target="_blank"}
-  - [OpenAI GPT-3 (Brown et al., 2020)](https://arxiv.org/abs/2005.14165){:target="_blank"}
+### Papers
+- <a href="https://arxiv.org/abs/1706.03762" target="_blank">Attention is All You Need (Vaswani et al., 2017)</a>
+- <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" target="_blank">OpenAI GPT-2 (Radford et al., 2019)</a>
+- <a href="https://arxiv.org/abs/2005.14165" target="_blank">OpenAI GPT-3 (Brown et al., 2020)</a>
 
-- **Transformer Architecture Visualizations**:
-  - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/){:target="_blank"}
+### Transformer Architecture Visualizations
+- <a href="https://jalammar.github.io/illustrated-transformer/" target="_blank">The Illustrated Transformer by Jay Alammar</a>
 
-- **YouTube Reference**:
-  - [Vizuara AI - YouTube Channel](https://www.youtube.com/@vizuara){:target="_blank"}
+### YouTube Reference
+- <a href="https://www.youtube.com/@vizuara" target="_blank">Vizuara AI - YouTube Channel</a>
+
 
 
 ## Credits
