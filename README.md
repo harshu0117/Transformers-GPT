@@ -1,9 +1,7 @@
 # Transformers-GPT
 
-[![Author](https://img.shields.io/badge/Author-harshu0117-blue)](https://github.com/harshu0117)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)](https://pytorch.org/)  
-[![OpenAI](https://img.shields.io/badge/OpenAI-4A4A55?logo=openai&logoColor=white&style=flat)](https://arxiv.org/abs/2005.14165)  
-[![Transformers](https://img.shields.io/badge/Transformers-00ADEF?logo=transformers&logoColor=white&style=flat)](https://arxiv.org/abs/1706.03762)
+[![Author](https://img.shields.io/badge/Author-harshu0117-blue)](https://github.com/harshu0117) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)](https://pytorch.org/) [![OpenAI](https://img.shields.io/badge/OpenAI-4A4A55?logo=openai&logoColor=white&style=flat)](https://arxiv.org/abs/2005.14165) [![Transformers](https://img.shields.io/badge/Transformers-00ADEF?logo=transformers&logoColor=white&style=flat)](https://arxiv.org/abs/1706.03762)
+
 
 
 A PyTorch implementation of the Transformer architecture, inspired by the seminal paper [Attention is All You Need](https://arxiv.org/abs/1706.03762), and OpenAI's GPT models. This repository contains code for building, training, and evaluating transformer-based language models from scratch.
