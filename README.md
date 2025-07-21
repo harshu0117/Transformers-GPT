@@ -52,7 +52,7 @@ The transformer model is based on the following key components:
 
 Below is a standard diagram of the transformer architecture (from the original paper):
 
-![Transformer Architecture](https://jalammar.github.io/images/t/transformer_architecture.png)
+![Transformer Architecture](https://towardsdatascience.com/wp-content/uploads/2020/11/1ZCFSvkKtppgew3cc7BIaug.png)
 
 ---
 
