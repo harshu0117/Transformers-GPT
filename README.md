@@ -59,17 +59,16 @@ Below is a standard diagram of the transformer architecture (from the original p
 ## References & Resources
 
 - **Papers**:
-  - [Attention is All You Need (Vaswani et al., 2017)](https://arxiv.org/abs/1706.03762)
-  - [OpenAI GPT-2](https://openai.com/research/publications/language-unsupervised)
-  - [OpenAI GPT-3](https://arxiv.org/abs/2005.14165)
+  - [Attention is All You Need (Vaswani et al., 2017)](https://arxiv.org/abs/1706.03762){:target="_blank"}
+  - [OpenAI GPT-2 (Radford et al., 2019)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf){:target="_blank"}
+  - [OpenAI GPT-3 (Brown et al., 2020)](https://arxiv.org/abs/2005.14165){:target="_blank"}
 
 - **Transformer Architecture Visualizations**:
-  - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
+  - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/){:target="_blank"}
 
 - **YouTube Reference**:
-  - [Visual AI - YouTube Channel](https://www.youtube.com/@VisualAI)
+  - [Vizuara AI - YouTube Channel](https://www.youtube.com/@vizuara){:target="_blank"}
 
----
 
 ## Credits
 
